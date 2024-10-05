@@ -3,7 +3,10 @@ function rename(nodes) {
         "HK": "香港",
         "Hong Kong": "香港",
         "香港": "香港",
+        "Hongkong": "香港",
+        "Japan": "日本",
         "US": "美国",
+        "USA": "美国",
         "Taiwan": "台湾",
         // 可以添加更多的地区映射
     };
