@@ -1,23 +1,23 @@
-DOMAIN-SUFFIX,t.audiences.me
-DOMAIN-SUFFIX,tracker.cinefiles.info
-DOMAIN-SUFFIX,hdhome.org
-DOMAIN-SUFFIX,m-team.cc
-DOMAIN-SUFFIX,m-team.io
-DOMAIN-SUFFIX,ourbits.club
-DOMAIN-SUFFIX,tracker.keepfrds.com
-DOMAIN-SUFFIX,tracker.totheglory.im
-DOMAIN-SUFFIX,tracker.hhanclub.top
-DOMAIN-SUFFIX,hhan.club
+DOMAIN,t.audiences.me
+DOMAIN,tracker.cinefiles.info
+DOMAIN,hdhome.org
+DOMAIN,tracker.m-team.cc
+DOMAIN,tracker.m-team.io
+DOMAIN,ourbits.club
+DOMAIN,tracker.keepfrds.com
+DOMAIN,tracker.totheglory.im
+DOMAIN,tracker.hhanclub.top
+DOMAIN,hhan.club
 
-DOMAIN-SUFFIX,tracker.agsvpt.cn
-DOMAIN-SUFFIX,agsvpt.trackers.work
-DOMAIN-SUFFIX,tracker.agsvpt.work
-DOMAIN-SUFFIX,sunnytk.top
-DOMAIN-SUFFIX,t.ubits.club
-DOMAIN-SUFFIX,t.hddolby.com
-DOMAIN-SUFFIX,tracker.leaves.red
-DOMAIN-SUFFIX,tracker2.leaves.red
-DOMAIN-SUFFIX,tracker3.leaves.red
+DOMAIN,tracker.agsvpt.cn
+DOMAIN,agsvpt.trackers.work
+DOMAIN,tracker.agsvpt.work
+DOMAIN,sunnytk.top
+DOMAIN,t.ubits.club
+DOMAIN,t.hddolby.com
+DOMAIN,tracker.leaves.red
+DOMAIN,tracker2.leaves.red
+DOMAIN,tracker3.leaves.red
 
 
 DOMAIN-SUFFIX,connects.icu
@@ -36,11 +36,9 @@ DOMAIN-SUFFIX,cyanbug.net
 DOMAIN-SUFFIX,dajiao.cyou
 DOMAIN-SUFFIX,kufei.org
 
-DOMAIN-SUFFIX,rousi.zip
 DOMAIN-SUFFIX,pandapt.net
 DOMAIN-SUFFIX,1ptba.com
 DOMAIN-SUFFIX,0ff.cc
-DOMAIN-SUFFIX,ptchina.org
 DOMAIN-SUFFIX,btschool.club
 DOMAIN-SUFFIX,crabpt.vip
 DOMAIN-SUFFIX,pttime.org
@@ -59,7 +57,6 @@ DOMAIN-SUFFIX,ptvicomo.net
 
 
 DOMAIN-SUFFIX,qingwa.pro
-DOMAIN-SUFFIX,haidan.video
 DOMAIN-SUFFIX,ptsbao.club
 DOMAIN-SUFFIX,discfan.xyz
 DOMAIN-SUFFIX,discfan.net
